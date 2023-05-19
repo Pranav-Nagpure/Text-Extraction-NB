@@ -7,8 +7,6 @@
 [![Python][python-shield]][python-url]
 [![Tesseract][tesseract-shield]][tesseract-url]
 
-Visit the <a href="https://text-extractor.onrender.com">Web Application</a> deployed on render
-
 Visit the <a href="https://github.com/Pranav-Nagpure/Text-Extraction.git">GitHub Repository</a> of Web Application.
 
 </div>
